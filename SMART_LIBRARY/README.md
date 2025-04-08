@@ -7,7 +7,7 @@ The **Smart Library System** is a Python-based object-oriented program that simu
 - Manage books, digital books, and magazines.
 - Borrow and return books with ease.
 - Rate books and view their details.
-- Demonstrates OOP principles like encapsulation, inheritance, and polymorphism.
+- Demonstrates OOP principles encapsulation, inheritance, Abstraction and polymorphism.
 
 ## Installation
 
@@ -21,8 +21,8 @@ The **Smart Library System** is a Python-based object-oriented program that simu
 3. How to Run
 Navigate to the project directory.
 Run the main program:
-```sh
-python main.py 
+    ```sh
+    python main.py 
 
 4. Follow the on-screen menu to interact with the library system.
 
